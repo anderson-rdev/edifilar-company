@@ -1,10 +1,41 @@
-**# Sistema de Gestão para Corretoras de Imóveis**
-**#Visão Geral**
-Este é um sistema de Gestão para Corretoras de Imóveis projetado para simplificar e otimizar as operações do dia a dia. Ele oferece um conjunto de ferramentas para gerenciar imóveis, interagir com clientes e acompanhar todas as movimentações de estoque, desde o cadastro de novas propriedades até a exibição das opções de casas à venda.
+# 🏡 Sistema de Gestão para Corretoras de Imóveis
 
-**#Funcionalidades**
-**Menu Principal:** Oferece acesso rápido e organizado a todas as funcionalidades do sistema.
-**#Tela de Cadastro:** Permite registrar novos imóveis com detalhes completos, como endereço, preço, fotos e informações de contato do proprietário.
-**#Exibição de Imóveis:** Apresenta uma lista clara e detalhada das casas disponíveis para venda.
-**#Opções de Contato:** Facilita o registro e acompanhamento das interações com clientes, como agendamentos de visita e propostas.
-**#Movimentações de Estoque:** Gerencia o status dos imóveis, indicando se estão disponíveis, vendidos ou reservados.
+## 📌 Visão Geral
+
+O **Sistema de Gestão para Corretoras de Imóveis** foi desenvolvido para simplificar e otimizar as operações do dia a dia de imobiliárias.
+Ele disponibiliza um conjunto de ferramentas que auxiliam no **gerenciamento de imóveis**, na **interação com clientes** e no **acompanhamento das movimentações de estoque**, abrangendo desde o cadastro de novas propriedades até a exibição de opções disponíveis para venda.
+
+---
+
+## ⚙️ Funcionalidades
+
+### 📂 Menu Principal
+
+* Acesso rápido e organizado a todas as áreas do sistema.
+
+### 📝 Tela de Cadastro de Imóveis
+
+* Registro de novos imóveis com informações detalhadas:
+
+  * Endereço
+  * Valor
+  * Fotos
+  * Dados de contato do proprietário
+
+### 🏘️ Exibição de Imóveis
+
+* Lista clara e intuitiva dos imóveis disponíveis para venda.
+* Apresentação com detalhes que facilitam a análise e escolha pelos clientes.
+
+### 🤝 Gerenciamento de Contatos
+
+* Registro e acompanhamento das interações com clientes.
+* Controle de agendamentos de visita e propostas realizadas.
+
+### 📊 Movimentações de Estoque
+
+* Gerenciamento do status dos imóveis:
+
+  * Disponível
+  * Vendido
+  * Reservado
