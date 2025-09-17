@@ -1,5 +1,6 @@
 package com.edifilar.model;
 
+/*
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
@@ -47,3 +48,4 @@ public class Cargo {
         this.nivelHierarquico = nivelHierarquico;
     }
 }
+ */
