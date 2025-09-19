@@ -1,0 +1,10 @@
+com\edifilar\config\DatabaseConfig.class
+com\edifilar\model\Dominio.class
+com\edifilar\model\Enderecos.class
+com\edifilar\EdifilarApplication.class
+com\edifilar\model\CNPJ.class
+com\edifilar\handler\GlobalExceptionHandler.class
+com\edifilar\model\Pessoa.class
+com\edifilar\model\Empresa.class
+com\edifilar\dto\PessoaDto.class
+com\edifilar\model\Conta.class
